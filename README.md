@@ -2,7 +2,7 @@
 The game of tic-tac-toe
 
 This is a "vibe code" program. I simply prompted ChatGPT to write it. It is suppose to be in pure C++20.
-compile with the following command:
+Compile with the following command:
 
 `c++ -std=c++20 -O3 -o tic-tac-toe tic-tac-toe.cpp`
 
